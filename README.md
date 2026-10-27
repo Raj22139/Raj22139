@@ -11,12 +11,6 @@
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-2563EB?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=Raj22139&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
-<br/><br/>
-
-<a href="https://github.com/Raj22139">GitHub Profile</a> &nbsp; • &nbsp;
-<a href="https://github.com/Raj22139?tab=repositories">My Projects</a> &nbsp; • &nbsp;
-<a href="mailto:rajy9648adav@gmail.com">Contact Me</a>
-
 </div>
 
 ---
@@ -48,10 +42,6 @@ Hi! I'm **Yadav Raj** 👋, a Full Stack Developer passionate about building mod
 
 </td>
 <td width="42%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,python,java,mongodb&theme=dark&perline=3" width="90%"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/CLEAN%20CODE-YES-06B6D4?style=flat-square"/>
 <br/>
@@ -119,10 +109,6 @@ School management platform for simplifying academic and administrative operation
 
 `React` `Node.js` `MongoDB`
 
-<div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
-</div>
-
 </td>
 <td width="33%" valign="top">
 
@@ -140,10 +126,6 @@ Solar energy website with an admin dashboard and project management features.
 
 `React` `Node.js` `MongoDB`
 
-<div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
-</div>
-
 </td>
 <td width="33%" valign="top">
 
@@ -160,10 +142,6 @@ A web-based universal video downloader project.
 **Stack**
 
 `HTML` `CSS` `JavaScript`
-
-<div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
-</div>
 
 </td>
 </tr>
@@ -199,27 +177,11 @@ A web-based universal video downloader project.
 
 <div align="center">
 
-### 🌌 Night View (3D + Stats)
-
 <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View"/>
 
 <br/><br/>
 
-### 🌿 Animated 3D (Green Growth)
-
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Green Animated"/>
-
-<br/><br/>
-
-### 🍂 Animated 3D (Seasons Colors)
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Season Animated"/>
-
-<br/><br/>
-
-### 🌈 Night Rainbow
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Night Rainbow"/>
 
 </div>
 
@@ -229,21 +191,11 @@ A web-based universal video downloader project.
 
 <div align="center">
 
-### 🌑 Dark Snake
-
 <img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg" width="100%" alt="Dark Snake"/>
 
 <br/><br/>
 
-### 💠 Neon Cyan Snake
-
 <img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/snake-neon.svg" width="100%" alt="Neon Snake"/>
-
-<br/><br/>
-
-### 💜 Purple Snake
-
-<img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/snake-purple.svg" width="100%" alt="Purple Snake"/>
 
 </div>
 
