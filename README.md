@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:172554,70:581C87,100:06B6D4&text=YADAV%20RAJ&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descSize=20&descColor=67E8F9&descAlignY=65"/>
@@ -10,6 +9,7 @@
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-2563EB?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Raj22139&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 
 ## ◈ CONNECTING IDEAS WITH CODE ◈
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="85%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 
 ### 👨‍💻 ABOUT ME
 
-Hi! I'm **Yadav Raj**, a Full Stack Developer passionate about building modern digital experiences.
+Hi! I'm **Yadav Raj** 👋, a Full Stack Developer passionate about building modern digital experiences.
 
 - 🚀 Full Stack Web Development
 - ⚛️ React & JavaScript
@@ -199,11 +199,29 @@ A web-based universal video downloader project.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+</picture>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj22139&bg_color=080D20&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj22139&bg_color=080D20&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
