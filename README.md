@@ -199,29 +199,51 @@ A web-based universal video downloader project.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+### 🌌 Night View (3D + Stats)
 
-<br/>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Night View"/>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Contributions"/>
+<br/><br/>
 
-<br/>
+### 🌿 Animated 3D (Green Growth)
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Seasonal Animated Contributions"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Green Animated"/>
+
+<br/><br/>
+
+### 🍂 Animated 3D (Seasons Colors)
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Season Animated"/>
+
+<br/><br/>
+
+### 🌈 Night Rainbow
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Night Rainbow"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE (ANIMATED)
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg" width="100%"/>
-</picture>
+### 🌑 Dark Snake
+
+<img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/github-snake-dark.svg" width="100%" alt="Dark Snake"/>
+
+<br/><br/>
+
+### 💠 Neon Cyan Snake
+
+<img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/snake-neon.svg" width="100%" alt="Neon Snake"/>
+
+<br/><br/>
+
+### 💜 Purple Snake
+
+<img src="https://raw.githubusercontent.com/Raj22139/Raj22139/output/snake-purple.svg" width="100%" alt="Purple Snake"/>
 
 </div>
 
