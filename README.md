@@ -199,15 +199,15 @@ A web-based universal video downloader project.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
-</picture>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj22139&bg_color=080D20&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated 3D Contributions"/>
+
+<br/>
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Seasonal Animated Contributions"/>
 
 </div>
 
