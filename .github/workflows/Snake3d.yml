@@ -21,7 +21,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/snake-neon.svg?color_snake=#06B6D4&color_dots=#0f172a,#164e63,#0e7490,#06b6d4,#67e8f9
-            dist/snake-purple.svg?color_snake=#A78BFA&color_dots=#1e1b4b,#3b0764,#581c87,#7c3aed,#c4b5fd
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
