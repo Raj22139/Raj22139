@@ -1,118 +1,63 @@
 
-<!-- ===================================================== -->
-<!--                 RAJ22139 PROFILE                      -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,30:111B4D,65:512DA8,100:00D4FF&text=YADAV%20RAJ&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=00D4FF&strokeWidth=1&desc=FULL%20STACK%20DEVELOPER&descSize=18&descColor=C4B5FD&descAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:172554,70:581C87,100:06B6D4&text=YADAV%20RAJ&fontSize=65&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER&descSize=20&descColor=67E8F9&descAlignY=65"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+%7C+Django;Connect+Ideas+With+Technology+%F0%9F%9A%80"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=55&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+MongoDB;Java+%7C+Python+%7C+Django;Turning+Ideas+Into+Reality+%E2%9C%A8" />
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-2563EB?style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://github.com/Raj22139">
-<img src="https://img.shields.io/badge/GitHub-Raj22139-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://github.com/Raj22139?tab=followers">
-<img src="https://img.shields.io/github/followers/Raj22139?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563EB"/>
-</a>
-<a href="https://github.com/Raj22139?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7C3AED?style=for-the-badge&logo=git"/>
-</a>
+<a href="https://github.com/Raj22139">GitHub Profile</a> &nbsp; • &nbsp;
+<a href="https://github.com/Raj22139?tab=repositories">My Projects</a> &nbsp; • &nbsp;
+<a href="mailto:rajy9648adav@gmail.com">Contact Me</a>
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ABOUT -->
-
-<h2 align="center">⚡ WHO AM I?</h2>
-
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### Hey, I'm Raj! 👋
-
-I'm a passionate **Full Stack Developer** interested in designing and developing modern web applications.
-
-I enjoy turning creative ideas into functional digital experiences with clean code, attractive interfaces and reliable backend systems.
-
-- 💻 Full Stack Web Development
-- ⚛️ React.js & JavaScript Development
-- 🛠️ Backend Development with Node.js
-- 🐍 Python, Java & Django
-- 🗄️ MongoDB & Database Management
-- 🚀 Building real-world projects
-- 🌱 Always learning and improving
-
-<br clear="right"/>
-
----
-
-<!-- SKILLS -->
-
-<h2 align="center">🧠 TECHNOLOGIES & EXPERTISE</h2>
 
 <div align="center">
 
-### 🎨 FRONTEND DEVELOPMENT
+## ◈ CONNECTING IDEAS WITH CODE ◈
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-
-<br/>
-
-### ⚙️ BACKEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,django&theme=dark" />
-
-<br/>
-
-### 🗄️ DATABASE & DEVELOPMENT TOOLS
-
-<img src="https://skillicons.dev/icons?i=mongodb,postman,git,github,vscode&theme=dark" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="85%"/>
 
 </div>
 
----
-
-<!-- TECHNICAL FOCUS -->
-
-<h2 align="center">💎 WHAT I DO</h2>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" align="center">
+<td width="58%" valign="top">
 
-### 🌐 Frontend Engineering
+### 👨‍💻 ABOUT ME
 
-Creating responsive, modern and interactive user interfaces with React, HTML, CSS and JavaScript.
+Hi! I'm **Yadav Raj**, a Full Stack Developer passionate about building modern digital experiences.
 
-</td>
-<td width="50%" align="center">
+- 🚀 Full Stack Web Development
+- ⚛️ React & JavaScript
+- 🔧 Node.js & Python
+- 🗄️ MongoDB
+- ☕ Java & Django
+- 💡 Learning, creating and exploring
 
-### 🔥 Backend Engineering
-
-Developing server-side applications, APIs and backend functionality using Node.js, Python and Django.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🗃️ Database Management
-
-Working with MongoDB to structure, store and manage application data.
+**My philosophy:** Build things that solve real problems.
 
 </td>
-<td width="50%" align="center">
+<td width="42%" align="center">
 
-### 🧪 API & Development Tools
+<img src="https://skillicons.dev/icons?i=react,nodejs,js,python,java,mongodb&theme=dark&perline=3" width="90%"/>
 
-Using Postman, Git and GitHub for API testing, version control and development workflows.
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CLEAN%20CODE-YES-06B6D4?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/CREATIVE%20MIND-ON-8B5CF6?style=flat-square"/>
+<br/>
+<img src="https://img.shields.io/badge/LEARNING-ALWAYS-2563EB?style=flat-square"/>
 
 </td>
 </tr>
@@ -120,130 +65,151 @@ Using Postman, Git and GitHub for API testing, version control and development w
 
 ---
 
-<!-- PROJECTS -->
+## ⚡ TECH STACK
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+<div align="center">
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">🏫 School ERP Management</h3>
+**FRONTEND**
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT-SCHOOL%20ERP-2563EB?style=flat-square"/>
-</div>
-
-A school management platform designed to simplify academic and administrative operations.
-
-**Core technologies:**
-- React.js
-- JavaScript
-- Node.js
-- MongoDB
-
-<div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=2&theme=dark"/>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-<h3 align="center">☀️ SolarPro</h3>
+**BACKEND**
 
-<div align="center">
-<img src="https://img.shields.io/badge/PROJECT-SOLAR%20ENERGY-7C3AED?style=flat-square"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,django&perline=2&theme=dark"/>
 
-A solar energy web platform with an admin dashboard and project management features.
+</td>
+<td align="center" width="33%">
 
-**Core technologies:**
-- React.js
-- JavaScript
-- Node.js
-- MongoDB
+**DATABASE & TOOLS**
 
-<div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,postman,git,github&perline=2&theme=dark"/>
 
 </td>
 </tr>
+</table>
 
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<table>
 <tr>
-<td width="50%" valign="top">
-
-<h3 align="center">📥 Universal Video Downloader</h3>
-
-A web-based project focused on video downloading functionality.
-
-**Core technologies:**
-- HTML
-- CSS
-- JavaScript
+<td width="33%" valign="top">
 
 <div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+### 🏫 SCHOOL ERP
+
+<img src="https://img.shields.io/badge/EDUCATION-ERP-2563EB?style=flat-square"/>
+
+</div>
+
+School management platform for simplifying academic and administrative operations.
+
+**Stack**
+
+`React` `Node.js` `MongoDB`
+
+<div align="center">
+<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
 </div>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">💡 More Projects</h3>
-
-I continuously explore new ideas and build projects to improve my development skills.
+<td width="33%" valign="top">
 
 <div align="center">
-<a href="https://github.com/Raj22139?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+### ☀️ SOLARPRO
+
+<img src="https://img.shields.io/badge/GREEN-ENERGY-7C3AED?style=flat-square"/>
+
+</div>
+
+Solar energy website with an admin dashboard and project management features.
+
+**Stack**
+
+`React` `Node.js` `MongoDB`
+
+<div align="center">
+<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📥 VIDEO DOWNLOADER
+
+<img src="https://img.shields.io/badge/WEB-APPLICATION-0891B2?style=flat-square"/>
+
+</div>
+
+A web-based universal video downloader project.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<div align="center">
+<a href="https://github.com/Raj22139?tab=repositories">Explore ↗</a>
 </div>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/Raj22139?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
 ---
 
-<!-- GITHUB ANALYTICS -->
-
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+## 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raj22139&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raj22139&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080D20&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj22139&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj22139&layout=compact&theme=tokyonight&hide_border=true&bg_color=080D20&title_color=38BDF8&text_color=E2E8F0"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Raj22139&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Raj22139&theme=tokyonight&hide_border=true&background=080D20&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-<h2 align="center">🌌 CONTRIBUTION ACTIVITY</h2>
+## 🧊 3D CONTRIBUTION WORLD
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raj22139&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=RAJ%27S%20CODING%20JOURNEY"/>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj22139&bg_color=080D20&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-<!-- CONNECT -->
-
-<h2 align="center">🤝 LET'S CONNECT</h2>
+## 🌐 LET'S CONNECT
 
 <div align="center">
 
@@ -252,27 +218,15 @@ I continuously explore new ideas and build projects to improve my development sk
 </a>
 
 <a href="mailto:rajy9648adav@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Open to learning, collaboration and exciting development opportunities.**
+**Open to collaboration, learning and exciting opportunities.**
 
-</div>
+### 💜 CODE • CONNECT • CREATE • INNOVATE
 
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:312E81,100:00D4FF&height=150&section=footer&animation=twinkling"/>
-
-### 💜 CODE • CREATE • INNOVATE
-
-**Thanks for visiting my profile!**
-
-<sub>Designed & Crafted by Yadav Raj | Raj22139</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:581C87,100:020617"/>
 
 </div>
